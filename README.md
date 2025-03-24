@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Olivia
+### 👋 Hi, I’m Olivia Ow
 - 🔭 I’m currently majoring in Artificial Intelligence at SMU Computer Science
+- 🌱 Always interested in data science and ML projects
 - 📫 How to reach me: oliviaow2003@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviaow2022&layout=compact&theme=omni)
 <!--
 **oliviaow2022/oliviaow2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
